@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "QL_Amisyas_Aklile_SSIS_Packages", "QL_Amisyas_Aklile_SSIS_Packages.dtproj", "{F054A713-9658-4D18-ACA8-679758319110}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F054A713-9658-4D18-ACA8-679758319110}.Development|Default.ActiveCfg = Development
+		{F054A713-9658-4D18-ACA8-679758319110}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79E77432-DCFC-4276-AB59-C4C1CF985066}
+	EndGlobalSection
+EndGlobal
